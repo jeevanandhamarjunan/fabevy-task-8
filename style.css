@@ -295,56 +295,6 @@
            height:250px;
            margin-top:30px;
 }
-/*-----------------contact-section-------------*/
-.contact-section{
-                background-color:grey;
-                padding-top:40px;
-                padding-bottom:40px;
-}
-.contact-content{
-                background-color:lightblue;
-                height:200px;
-                margin-top:10px;
-}
-.contact-address{
-                 background-color:lightblue;
-                 height:200px;
-                 margin-top:30px;
-}
-.contact-text{
-              background-color:lightblue;
-              height:400px;
-              margin-top:30px;
-}
-/*----------newsletter-section-------*/
-.newsletter-section{
-                    background-color:lightgreen;
-                    padding-top:30px;
-                    padding-bottom:30px;
-}
-.newsletter-head{
-                 background-color:lightblue;
-                 margin-top:15px;
-                height:100px;
-}
-.newsletter-subscribe-button{
-                 background-color:lightblue;
-                 height:100px;
-                 margin-top:15px;
-}
-/*--------------footer-section-----------*/
-.footer-section{
-               background-color:lightblue;
-               padding-top:30px;
-               padding-bottom:30px;
-}
-.footer-details{
-                background-color:lightgreen;
-                height:300px;
-               
-}
-.footer-content{
-                background-color:lightgreen;
-                height:300px;
-                padding-left:30px;
+.cnt-section{
+              background-color:blue;
 }
