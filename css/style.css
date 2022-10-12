@@ -1,0 +1,297 @@
+.container{
+           width:1140px;
+           margin:0 auto;
+}
+.row{
+      display:flex;
+      flex-wrap:wrap;
+}
+.col-lg-1{
+          width:8.33%;
+         padding:0 15px;
+}
+.col-lg-2{
+          width:16.66%;
+         padding:0 15px;
+}
+.col-lg-3{
+          width:25%;
+         padding:0 15px;
+}
+.col-lg-4{
+          width:33.33%;
+         padding:0 15px;
+}
+.col-lg-5{
+          width:41.66%;
+         padding:0 15px;
+}
+.col-lg-6{
+          width:50%;
+          padding:0 15px;
+}
+.col-lg-7{
+          width:58.33%;
+          padding:0 15px;
+}
+.col-lg-8{
+          width:66.66%;
+          padding:0 15px;
+}
+.col-lg-9{
+          width:75%;
+          padding:0 15px;
+}
+.col-lg-10{
+          width:83.33%;
+          padding:0 15px;
+}
+.col-lg-11{
+          width:91.66%;
+          padding:0 15px;
+}
+.col-lg-12{
+          width:100%;
+          padding:0 15px;
+}
+/*-------head---------*/
+.head-section{
+              padding-top:30px;
+              padding-bottom:30px;
+}
+.head-logo{
+            background-color:lightgreen; 
+            height:50px
+}
+.menu-bar{
+            background-color:lightgreen; 
+            height:50px
+}
+.banner-section{
+                background-color:lightblue;
+                padding-top:50px;
+                padding-bottom:50px;
+}
+.banner-content{
+                background-color:lightgreen;
+                height:300px;
+}
+.about-section{
+               background-color:white;
+               padding-top:40px;
+               padding-bottom:40px;
+}
+.abt-content{
+      background-color: lightgreen;
+      height: 200px;
+      margin-top:42px;
+      width:110%;
+}
+.abt-img{
+         background-color:lightblue;
+         height:300px;
+}  
+/*-------------value-section---------*/
+.value-section{
+               background-color:lightgreen;
+               padding-top:50px;
+               padding-bottom:50px;
+}
+.value-content{
+               background-color:lightblue;
+               height:100px;
+}
+.value-logo{
+            background-color:lightblue;
+            height:250px;
+            margin-top:50px;
+}                 
+/*---------------value-icon-section-----------*/
+.value-icon-section{
+                background-color:lightblue;
+                padding-top:30px;
+                padding-bottom:30px;
+}
+.value-icon{
+             background-color:lightgreen;
+             height:100px;
+}            
+/*---------------feature-section------*/
+.feature-section{
+               background-color:lightgreen;
+               padding-top:30px;
+               padding-bottom:30px;
+}
+.feature-content{
+                background-color:lightblue;
+                height:100px;
+}
+.feature-image{
+               background-color:lightblue;
+               height:360px;
+               margin-top:35px;
+}
+.feature-logo{
+               background-color:lightblue;
+               height:100px;
+               margin-top:35px;
+}
+/*---------------additional-feature-section-------*/
+.addition-feature-section{
+              background-color:lightblue;
+              padding-top:50px;
+              padding-bottom:50px;
+}
+.addition-feature-content{
+                          background-color:lightgreen;
+                          height:300px;
+}  
+.addition-feature-img{
+                       background-color:lightgreen;
+                       height:300px;
+}    
+/*-------------feature-section-2--------*/
+.feature-section-2{
+               background-color:lightgreen;
+               padding-top:30px;
+               padding-bottom:30px;
+}
+.feature-content-2{
+                background-color:lightblue;
+                height:100px;
+}
+.feature-image-2{
+               background-color:lightblue;
+               height:360px;
+               margin-top:35px;
+}
+.feature-logo-2{
+               background-color:lightblue;
+               height:100px;
+               margin-top:35px;
+}
+/*-------------service-section------*/
+.service-section{
+               background-color:lightblue;
+               padding-top:50px;
+               padding-bottom:50px;
+}
+.service-content{
+                 background-color:lightgreen;
+                 height:100px;
+}
+.service-logo{
+              background-color:lightgreen;
+              height:300px;
+              margin-top:35px;;
+} 
+/*--------------pricing-section--------*/
+.pricing-section{
+             background-color:lightgreen;
+             padding-top:50px;
+             padding-bottom:50px;
+}
+.pricing-content{
+               background-color:lightblue;
+               height:100px;
+}
+.pricing-logo{
+              background-color:lightblue;
+              height:400px;
+              margin-top:35px;
+}
+/*-------------FAQ-section-----------*/
+.FAQ-section{
+            background-color:lightblue;
+            padding-top:50px;
+            padding-bottom:50px;
+}
+.FAQ-head{
+          background-color:lightgreen;
+          height:100px;
+}
+.FAQ-content{
+           background-color:lightgreen;
+           height:300px;
+           margin:35px;
+}
+/*------------------portfolio-section-------*/
+.portfolio-section{
+                  background-color:lightgreen;
+                  padding-top:40px;
+                  padding-bottom:40px;
+}
+.portfolio-content{
+                   background-color:lightblue;
+                   height:100px;
+}
+.portfolio-logo{
+                background-color:lightblue;
+                height:100px;
+                margin-top:35px;
+}
+.portfolio-image{
+                background-color:lightblue;
+                height:300px;
+                margin-top:35px;
+}
+/*--------------------------testimonials-section-------*/
+.testimonials{
+              background-color:lightblue;
+              padding-top:50px;
+             padding-bottom:50px;
+}
+.testimonials-content{
+                  background-color:lightgreen;
+                  height:100px;
+}
+.testimonials-logo{
+                   background-color:lightgreen;
+                   height:300px;
+                   margin-top:25px;
+}
+/*-------------------team-section----------*/
+.team-section{
+            background-color:lightgreen;
+            padding-top:50px;
+            padding-bottom:50px;
+}
+.team-content{
+            background-color:lightblue;
+            height:100px;
+}
+.team-logo{
+           background-color:lightblue;
+           height:300px;
+           margin-top:25px;
+}
+/*-----------------client-section-----------*/
+.client-section{
+             background-color:lightblue;
+             padding-top:40px;
+             padding-bottom:40px;
+}
+.client-content{
+               background-color:lightgreen;
+               height:100px;
+}
+.client-logo{
+             background-color:lightgreen;
+             height:100px;
+             margin-top:30px;
+}
+/*--------------------blog-section---------------*/
+.blog-section{
+              background-color:lightgreen;
+              padding-top:40px;
+              padding-bottom:40px;
+}
+.blog-content{
+             background-color:lightblue;
+             height:100px;
+}
+.blog-logo{
+           background-color:lightblue;
+           height:250px;
+           margin-top:30px;
+}
